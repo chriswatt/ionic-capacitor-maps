@@ -1,0 +1,16 @@
+html, body {
+    background: transparent  !important;
+    --background: transparent !important;
+  }
+  
+  capacitor-google-map, #map {
+    display: inline-block;
+    height: 100% !important;
+    width: 100% !important;
+    border: red solid 5px !important;
+  }
+  ion-content {
+    --background: transparent;
+    background: transparent;
+  }
+  

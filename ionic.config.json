@@ -1,0 +1,7 @@
+{
+  "name": "vvv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
